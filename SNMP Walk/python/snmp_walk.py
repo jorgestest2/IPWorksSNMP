@@ -1,8 +1,12 @@
-#
-# IPWorks SNMP 2022 Python Edition - Demo Application
-#
-# Copyright (c) 2023 /n software inc. - All rights reserved. - www.nsoftware.com
-#
+# 
+# IPWorks SNMP 2022 Python Edition - Sample Project
+# 
+# This sample project demonstrates the usage of IPWorks SNMP in a 
+# simple, straightforward way. This is not intended to be a complete 
+# application. Error handling and other checks are simplified for clarity.
+# 
+# Copyright (c) 2023 /n software inc. www.nsoftware.com
+# 
 
 import sys
 import string
